@@ -1,0 +1,45 @@
+@baseUrl=http://localhost:3000/api
+
+# Dat ten
+@resourceName=titleHeaders
+
+# titleHeaders
+
+# @name getAll
+GET {{baseUrl}}/{{resourceName}}
+
+###
+
+# @name filterProducts
+GET {{baseUrl}}/{{resourceName}}?id=1
+
+###
+
+# @name addNew
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "rank": 1
+}
+
+###
+
+# @name update
+PATCH {{baseUrl}}/{{resourceName}}/2
+Content-Type: application/json
+
+{
+    "rank": 3
+}
+
+###
+
+# @name remove
+DELETE {{baseUrl}}/{{resourceName}}/3
+Content-Type: application/json
+
+###
+
+# @name pagination
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=2

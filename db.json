@@ -1,0 +1,887 @@
+{
+  "titleHeaders": [
+    {
+      "id": "1",
+      "name": "Bài Hát",
+      "list": [
+        {
+          "id": "1",
+          "type": "Việt Nam",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "type": "Âu Mỹ",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "type": "Châu Á",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "type": "Khác",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Playlist",
+      "list": [
+        {
+          "id": "1",
+          "type": "Việt Nam",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "type": "Âu Mỹ",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "type": "Châu Á",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "type": "Khác",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Tuyển Tập",
+      "list": [
+        {
+          "id": "1",
+          "type": "Thể Loại",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "type": "Tâm Trạng",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "type": "Khung cảnh",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "type": "Chủ đề",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Video",
+      "list": [
+        {
+          "id": "1",
+          "type": "Thể Loại",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "type": "Tâm Trạng",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "type": "Khung cảnh",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "type": "Chủ đề",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "BXH",
+      "list": [
+        {
+          "id": "1",
+          "type": "Thể Loại",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "type": "Tâm Trạng",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "type": "Khung cảnh",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "type": "Chủ đề",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Chủ Đề",
+      "list": [
+        {
+          "id": "1",
+          "type": "Thể Loại",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "type": "Tâm Trạng",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "type": "Khung cảnh",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "type": "Chủ đề",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Top 100",
+      "list": [
+        {
+          "id": "1",
+          "type": "Thể Loại",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "type": "Tâm Trạng",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "type": "Khung cảnh",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Khác",
+      "list": [
+        {
+          "id": "1",
+          "type": "Thể Loại",
+          "specific": [
+            {
+              "id": "1",
+              "name": "Nhạc Trẻ"
+            },
+            {
+              "id": "2",
+              "name": "Nhạc trữ tình"
+            },
+            {
+              "id": "3",
+              "name": "Remix Việt"
+            },
+            {
+              "id": "4",
+              "name": "Rap Việt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listImages": [
+    {
+      "id": 1,
+      "src": "https://avatar-ex-swe.nixcdn.com/slideshow/2021/05/07/5/e/a/4/1620369968263_org.jpg"
+    },
+    {
+      "id": 2,
+      "src": "https://avatar-ex-swe.nixcdn.com/slideshow/2021/05/10/d/6/9/c/1620641097840_org.jpg"
+    },
+    {
+      "id": 3,
+      "src": "https://avatar-ex-swe.nixcdn.com/slideshow/2021/05/10/d/6/9/c/1620630252759_org.jpg"
+    },
+    {
+      "id": 4,
+      "src": "https://avatar-ex-swe.nixcdn.com/slideshow/2021/05/10/d/6/9/c/1620633191534_org.jpg"
+    },
+    {
+      "id": 5,
+      "src": "https://avatar-ex-swe.nixcdn.com/slideshow/2021/05/07/5/e/a/4/1620359349369_org.jpg"
+    }
+  ],
+  "listChartMusic": [
+    {
+      "id": 2,
+      "name_song": "Sài Gòn Đau Lòng Quá",
+      "name_author": "Hứa Kim Tuyền, Hoàng Duyên"    },
+    {
+      "id": 3,
+      "name_song": "Câu Hẹn Câu Thề",
+      "name_author": "Đình Dũng, ACV"
+    },
+    {
+      "id": 4,
+      "name_song": "Nàng Thơ",
+      "name_author": "Hoàng Dũng"
+    },
+    {
+      "id": 5,
+      "name_song": "Laylalay",
+      "name_author": "Jack - J97"
+    },
+    {
+      "id": 6,
+      "name_song": "Răng Khôn",
+      "name_author": "Phí Phương Anh, RIN9"
+    },
+    {
+      "id": 7,
+      "name_song": "Tình Bạn Diệu Kỳ",
+      "name_author": "Ricky Star, Lăng LD, Amee"
+    },
+    {
+      "id": 8,
+      "name_song": "Vách Ngọc Ngà",
+      "name_author": "Anh Rồng"
+    },
+    {
+      "id": 9,
+      "name_song": "Phải Chăng Em Đã Yêu",
+      "name_author": "Juky San, RedI"
+    },
+    {
+      "id": 10,
+      "name_song": "Tháng Mấy Em Nhớ Anh",
+      "name_author": "Hà Anh Tuấn"
+    }
+  ],
+  "topSongOne": [
+    {
+      "id": 1,
+      "src":
+        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-chart.jpg?alt=media&token=a8bdf474-8a22-46c9-a98c-8774b6be34e7",
+      "name_song": "Muộn Rồi Mà Sao Còn",
+      "name_author": "Sơn Tùng M-TP"
+    }
+  ],
+  "listChartMusicUK": [
+    {
+      "id": 2,
+      "name_song": "Mood",
+      "name_author": "24KGoldn, Iann Dior"
+    },
+    {
+      "id": 3,
+      "name_song": "34+35",
+      "name_author": "Ariana Grande"
+    },
+    {
+      "id": 4,
+      "name_song": "Kiss Me More",
+      "name_author": "Doja Cat, SZA"
+    },
+    {
+      "id": 5,
+      "name_song": "Positions",
+      "name_author": "Ariana Grande"
+    },
+    {
+      "id": 6,
+      "name_song": "Ice Cream",
+      "name_author": "BlackPink, Selena Gomez"
+    },
+    {
+      "id": 7,
+      "name_song": "Mad At Disney",
+      "name_author": "Mad At Disney"
+    },
+    {
+      "id": 8,
+      "name_song": "Montero (Call Me By Your Name)",
+      "name_author": "Lil Nas X"
+    },
+    {
+      "id": 9,
+      "name_song": "Savage Love (Laxed - Siren Beat) [bts Remix]",
+      "name_author": "Jason Derulo"
+    },
+    {
+      "id": 10,
+      "name_song": "Drivers License",
+      "name_author": "Olivia Rodrigo"
+    }
+  ],
+  "topSongOneUK" : [
+    {
+      "id": 1,
+      "src":
+        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-chart-UK.jpg?alt=media&token=acc9d408-942b-451a-8854-98a38a4d6af5",
+      "name_song": "Peaches",
+      "name_author": "Justin Bieber, Daniel Caesar"
+    }
+  ],
+  "listChartMusicKorea" : [
+    {
+      "id": 2,
+      "name_song": "GONE",
+      "name_author": "ROSE"
+    },
+    {
+      "id": 3,
+      "name_song": "On The Ground",
+      "name_author": "ROSÉ"
+    },
+    {
+      "id": 4,
+      "name_song": "How You Like That",
+      "name_author": "BlackPink"
+    },
+    {
+      "id": 5,
+      "name_song": "Lovesick Girls",
+      "name_author": "BlackPink"
+    },
+    {
+      "id": 6,
+      "name_song": "Still With You",
+      "name_author": "ung Kook (BTS)"
+    },
+    {
+      "id": 7,
+      "name_song": "Celebrity",
+      "name_author": "IU"
+    },
+    {
+      "id": 8,
+      "name_song": "I Can't Stop Me",
+      "name_author": "TWICE"
+    },
+    {
+      "id": 9,
+      "name_song": "After School",
+      "name_author": "Weekly"
+    },
+    {
+      "id": 10,
+      "name_song": "Bet You Wanna",
+      "name_author": "BlackPink, Cardi B "
+    }
+  ],
+  "topSongOneKorea": [
+    {
+      "id": 1,
+      "src":
+        "https://avatar-ex-swe.nixcdn.com/song/2021/04/30/3/2/c/c/1619752608643.jpg",
+      "name_song": "In The Morning",
+      "name_author": "ITYZY"
+    }
+  ],
+  "listRankMvVN": [
+    {
+      "id": 2,
+      "src":
+        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-rank-mv-2-VN.jpg?alt=media&token=b03cf086-41d7-4cbf-921a-a3828126754f",
+      "name_mv": "Laylalay",
+      "name_author": "Jack, J97"
+    },
+    {
+      "id": 3,
+      "src":
+        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-rank-mv-3-VN.jpg?alt=media&token=2597accc-4e3c-4b60-9d84-03c0bab0db77",
+      "name_mv": "Điều Dang Dở Ngọt Ngào (Hướng Dương Ngược Nắng P2 OST)",
+      "name_author": "Hương Ly"
+    },
+    {
+      "id": 4,
+      "src":
+        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-rank-mv-4-VN.jpg?alt=media&token=5be43ca6-0b09-4c03-8d5a-bddd46405508",
+      "name_mv": "Thiên Hạ Hữu Tình Nhân",
+      "name_author": "Juky San, Đang trường"
+    },
+    {
+      "id": 5,
+      "src":
+        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-rank-mv-5-VN.jpg?alt=media&token=4e6640ff-87f1-4df8-940c-3879a9c9e374",
+      "name_mv": "Yêu Thầm",
+      "name_author": "Hoàng Yến ChiPi, TDK"
+    }
+  ]
+}
