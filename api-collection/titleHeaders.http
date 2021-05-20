@@ -1,7 +1,7 @@
-@baseUrl=http://localhost:3000/api
+@baseUrl=json-server-nhaccuatui.herokuapp.com/api/
 
 # Dat ten
-@resourceName=titleHeaders
+@resourceName=listContentSongToday
 
 # titleHeaders
 
