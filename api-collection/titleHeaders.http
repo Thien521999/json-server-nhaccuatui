@@ -1,7 +1,7 @@
 @baseUrl=json-server-nhaccuatui.herokuapp.com/api/
 
 # Dat ten
-@resourceName=cooperationList
+@resourceName=listContentSongToday
 
 # titleHeaders
 
