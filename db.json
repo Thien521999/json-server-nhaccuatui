@@ -1,37 +1,32 @@
 {
-  "listContentSongToday":[
+  "listContentSongToday": [
     {
       "id": 1,
-      "src_main":
-        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/song-today1.svg?alt=media&token=6eb18c73-4523-41c4-b7bb-5c1f254309c9",
+      "src_main": "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/song-today1.svg?alt=media&token=6eb18c73-4523-41c4-b7bb-5c1f254309c9",
       "name_song": "Mother's Love: Mother's Day Songs",
       "number": 1847
     },
     {
       "id": 2,
-      "src_main":
-        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/today-song2.svg?alt=media&token=3eac89ec-ee74-4f20-94ac-578890865063",
+      "src_main": "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/today-song2.svg?alt=media&token=3eac89ec-ee74-4f20-94ac-578890865063",
       "name_song": "Nhạc Hàn Quốc Hôm Nay Nghe Gì?",
       "number": 5221
     },
     {
       "id": 3,
-      "src_main":
-        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/today-song3.svg?alt=media&token=47c42e53-86ab-479a-abb1-e25f68eb7f83",
+      "src_main": "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/today-song3.svg?alt=media&token=47c42e53-86ab-479a-abb1-e25f68eb7f83",
       "name_song": "20 Ca Khúc Quốc Tế Hot Nhất Tuần",
       "number": 984
     },
     {
       "id": 4,
-      "src_main":
-        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/today-song4.svg?alt=media&token=43a74fab-0deb-4439-b7f6-e907ae1d9e71",
+      "src_main": "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/today-song4.svg?alt=media&token=43a74fab-0deb-4439-b7f6-e907ae1d9e71",
       "name_song": "literally just vibin",
       "number": 1247
     },
     {
       "id": 5,
-      "src_main":
-        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/1571019450190_300.svg?alt=media&token=07033241-323f-4b44-94ae-0b484d144c2f",
+      "src_main": "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/1571019450190_300.svg?alt=media&token=07033241-323f-4b44-94ae-0b484d144c2f",
       "name_song": "Song Ca Về Tình Yêu Hay Nhất",
       "number": 18476
     }
@@ -728,7 +723,8 @@
     {
       "id": 2,
       "name_song": "Sài Gòn Đau Lòng Quá",
-      "name_author": "Hứa Kim Tuyền, Hoàng Duyên"    },
+      "name_author": "Hứa Kim Tuyền, Hoàng Duyên"
+    },
     {
       "id": 3,
       "name_song": "Câu Hẹn Câu Thề",
@@ -773,8 +769,7 @@
   "topSongOne": [
     {
       "id": 1,
-      "src":
-        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-chart.jpg?alt=media&token=a8bdf474-8a22-46c9-a98c-8774b6be34e7",
+      "src": "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-chart.jpg?alt=media&token=a8bdf474-8a22-46c9-a98c-8774b6be34e7",
       "name_song": "Muộn Rồi Mà Sao Còn",
       "name_author": "Sơn Tùng M-TP"
     }
@@ -826,16 +821,15 @@
       "name_author": "Olivia Rodrigo"
     }
   ],
-  "topSongOneUK" : [
+  "topSongOneUK": [
     {
       "id": 1,
-      "src":
-        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-chart-UK.jpg?alt=media&token=acc9d408-942b-451a-8854-98a38a4d6af5",
+      "src": "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-chart-UK.jpg?alt=media&token=acc9d408-942b-451a-8854-98a38a4d6af5",
       "name_song": "Peaches",
       "name_author": "Justin Bieber, Daniel Caesar"
     }
   ],
-  "listChartMusicKorea" : [
+  "listChartMusicKorea": [
     {
       "id": 2,
       "name_song": "GONE",
@@ -885,8 +879,7 @@
   "topSongOneKorea": [
     {
       "id": 1,
-      "src":
-        "https://avatar-ex-swe.nixcdn.com/song/2021/04/30/3/2/c/c/1619752608643.jpg",
+      "src": "https://avatar-ex-swe.nixcdn.com/song/2021/04/30/3/2/c/c/1619752608643.jpg",
       "name_song": "In The Morning",
       "name_author": "ITYZY"
     }
@@ -894,31 +887,89 @@
   "listRankMvVN": [
     {
       "id": 2,
-      "src":
-        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-rank-mv-2-VN.jpg?alt=media&token=b03cf086-41d7-4cbf-921a-a3828126754f",
+      "src": "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-rank-mv-2-VN.jpg?alt=media&token=b03cf086-41d7-4cbf-921a-a3828126754f",
       "name_mv": "Laylalay",
       "name_author": "Jack, J97"
     },
     {
       "id": 3,
-      "src":
-        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-rank-mv-3-VN.jpg?alt=media&token=2597accc-4e3c-4b60-9d84-03c0bab0db77",
+      "src": "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-rank-mv-3-VN.jpg?alt=media&token=2597accc-4e3c-4b60-9d84-03c0bab0db77",
       "name_mv": "Điều Dang Dở Ngọt Ngào (Hướng Dương Ngược Nắng P2 OST)",
       "name_author": "Hương Ly"
     },
     {
       "id": 4,
-      "src":
-        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-rank-mv-4-VN.jpg?alt=media&token=5be43ca6-0b09-4c03-8d5a-bddd46405508",
+      "src": "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-rank-mv-4-VN.jpg?alt=media&token=5be43ca6-0b09-4c03-8d5a-bddd46405508",
       "name_mv": "Thiên Hạ Hữu Tình Nhân",
       "name_author": "Juky San, Đang trường"
     },
     {
       "id": 5,
-      "src":
-        "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-rank-mv-5-VN.jpg?alt=media&token=4e6640ff-87f1-4df8-940c-3879a9c9e374",
+      "src": "https://firebasestorage.googleapis.com/v0/b/photo-app-724e8.appspot.com/o/img-rank-mv-5-VN.jpg?alt=media&token=4e6640ff-87f1-4df8-940c-3879a9c9e374",
       "name_mv": "Yêu Thầm",
       "name_author": "Hoàng Yến ChiPi, TDK"
+    }
+  ],
+  "cooperationList": [
+    {
+      "id": "1",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/1-new.png"
+    },
+    {
+      "id": "2",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/2-new.png"
+    },
+    {
+      "id": "3",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/17.png"
+    },
+    {
+      "id": "4",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/13.png"
+    },
+    {
+      "id": "5",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/12.png"
+    },
+    {
+      "id": "6",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/14.png"
+    },
+    {
+      "id": "7",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/15.png"
+    },
+    {
+      "id": "8",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/3-new.png"
+    },
+    {
+      "id": "9",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/10.png"
+    },
+    {
+      "id": "10",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/14.png"
+    },
+    {
+      "id": "11",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/1-new.png"
+    },
+    {
+      "id": "12",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/2-new.png"
+    },
+    {
+      "id": "13",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/17.png"
+    },
+    {
+      "id": "14",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/13.png"
+    },
+    {
+      "id": "15",
+      "src": "https://stc-id.nixcdn.com/v11/images/footer/12.png"
     }
   ]
 }
