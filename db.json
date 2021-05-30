@@ -1343,19 +1343,23 @@
   "listTodo": [
     {
       "id": 1,
-      "name": "Eat"
+      "name": "Eat",
+      "completed": false
     },
     {
       "id": 2,
-      "name": "Code"
+      "name": "Code",
+      "completed": false
     },
     {
       "id": 3,
-      "name": "Reading Doc React js"
+      "name": "Reading Doc React js",
+      "completed": false
     },
     {
       "id": 4,
-      "name": "Sleep"
+      "name": "Sleep",
+      "completed": false
     }
   ]
 }
